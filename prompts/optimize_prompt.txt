@@ -1,0 +1,6 @@
+Review this Solidity code and suggest gas optimizations.
+Focus on:
+- Storage usage
+- Loop efficiency
+- Function visibility
+- Solidity best practices

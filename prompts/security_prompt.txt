@@ -1,0 +1,2 @@
+Analyze the following Solidity contract for potential vulnerabilities.
+Explain any security risks, their severity, and suggest mitigation strategies.

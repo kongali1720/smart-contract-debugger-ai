@@ -1,0 +1,2 @@
+I’m having issues with this Solidity contract. It compiles fine, but the transfer function doesn’t update balances correctly.
+Can you identify the issue, explain why it happens, and suggest a fix?
